@@ -1,0 +1,10 @@
+spisok=[int(input()), int(input()), int(input()),
+        int(input()),int(input())]
+a=len(spisok)
+b=sorted(spisok)
+d=b[0]
+l=a-1
+c=b[l:a]
+w=c[0]
+print("result: ",w-d)
+print(b)
