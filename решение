@@ -7,4 +7,3 @@ l=a-1
 c=b[l:a]
 w=c[0]
 print("result: ",w-d)
-print(b)
